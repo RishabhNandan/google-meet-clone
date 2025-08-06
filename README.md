@@ -20,9 +20,40 @@ A real-time video conferencing web application inspired by Google Meet, built us
 - **CSS3** – Responsive layout using Flexbox/Grid  
 - **JavaScript** – DOM manipulation, real-time logic  
 - **WebRTC** – (if used) for peer-to-peer communication  
-- **Firebase / Socket.io** – (if used) for signaling server/chat  
+- **Firebase / Socket.io** – (if used) for signalling server/chat  
 
 ---
+
+## 🧠 What I Learned
+
+- Implementing real-time media streams using browser APIs  
+- Responsive UI development with CSS  
+- Handling peer connections (WebRTC basics)  
+- Understanding how front-end apps mimic real-world platforms
+
+
+## 🤝 Contributing
+
+Feel free to fork this project, raise issues, or submit pull requests.  
+For major changes, please open an issue first to discuss what you'd like to change.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♂️ About Me
+
+**Rishabh Nandan**  
+BCA & MCA (Data Science) Student | Front-End Enthusiast  
+
+
+---
+
+
 
 
 
